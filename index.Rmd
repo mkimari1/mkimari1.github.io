@@ -21,4 +21,6 @@ The other tabs represent work/ analyses that I have completed. Please check them
 
 Shiny APP link : - https://mkimari1.shinyapps.io/Beer_app/
 
-Youtube video link: - https://www.youtube.com/watch?v=C86O7qvLV6g 
+Youtube video link: - https://www.youtube.com/watch?v=C86O7qvLV6g
+
+Shiny APP For Attrition: - https://mkimari1.shinyapps.io/Attrition/
