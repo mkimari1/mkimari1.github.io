@@ -16,7 +16,7 @@ output: html_document
 
 
 
-The other tabs represent work/ analyses that I have completed. Please check them out
+The other tabs represent work/ analyses that I have completed. Please check them out 
 
 
 Shiny APP link : - https://mkimari1.shinyapps.io/Beer_app/
